@@ -8,3 +8,4 @@ src/tsar
 cscope.out
 ttsar.sh
 /.idea
+/.vscode
